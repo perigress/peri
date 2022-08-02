@@ -1,5 +1,5 @@
 {
-  "name": "peri",
+  "name": "@perigress/peri",
   "version": "0.0.1",
   "main": "peri.js",
   "description": "Perigress CLI",
