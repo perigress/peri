@@ -1,6 +1,6 @@
 {
   "name": "@perigress/peri",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "peri.js",
   "description": "Perigress CLI",
   "keywords": [
@@ -55,9 +55,9 @@
     "seed-random": "^2.2.0",
     "sift": "^16.0.0",
     "to-json-schema": "^0.2.5",
-    "tree-pop": "0.0.5",
+    "tree-pop": "0.0.6",
     "well-known-regex": "0.0.7",
-    "@perigress/perigress": "0.1.2",
-    "@perigress/mongonian": "0.0.3"
+    "@perigress/perigress": "0.1.4",
+    "@perigress/mongonian": "0.0.5"
   }
 }
