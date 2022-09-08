@@ -57,7 +57,7 @@
     "to-json-schema": "^0.2.5",
     "tree-pop": "0.0.7",
     "well-known-regex": "0.0.7",
-    "@perigress/perigress": "0.1.5",
-    "@perigress/mongonian": "0.0.6"
+    "@perigress/perigress": "0.1.6",
+    "@perigress/mongonian": "0.0.7"
   }
 }
