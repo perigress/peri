@@ -1,6 +1,6 @@
 {
   "name": "@perigress/peri",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "peri.js",
   "description": "Perigress CLI",
   "keywords": [
@@ -50,14 +50,14 @@
     "json-schema2sql": "0.0.3",
     "jsonschema": "^1.4.0",
     "kitchen-sync": "0.0.1",
-    "object-accessor": "0.0.1",
+    "object-accessor": "0.0.5",
     "object-hash": "^3.0.0",
     "seed-random": "^2.2.0",
     "sift": "^16.0.0",
     "to-json-schema": "^0.2.5",
-    "tree-pop": "0.1.0",
+    "tree-pop": "0.1.2",
     "well-known-regex": "0.0.7",
-    "@perigress/perigress": "0.2.0",
-    "@perigress/mongonian": "0.1.1"
+    "@perigress/perigress": "0.2.2",
+    "@perigress/mongonian": "0.1.3"
   }
 }
